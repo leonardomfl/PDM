@@ -10,6 +10,7 @@ CRIAR UMA APLICAÇÃO QUE CONTEMPLE OS SEGUINTES REQUISITOS:
 2) ORDENAR EVENTO POR DATA;
 3) CRIAR UM ALERT DIALOG QUE EXIBA A MÉDIA DOS PREÇOS DOS INGRESSOS DOS EVENTOS.
 ```
+Obs.: Todos os requisitos foram atendidos!
 
 ## STARTUP NAMER
 Segue abaixo os requisitos solicitados pelo professor:
@@ -21,6 +22,7 @@ CRIAR UMA APLICAÇÃO QUE CONTEMPLE OS SEGUINTES REQUISITOS:
 3) CONFORME O USUÁRIO ROLA A TELA, MAIS NOMES SÃO GERADOS;
 4) NÃO HÁ LIMITE DE ATÉ ONDE O USUÁRIO PODE ROLAR A TELA.
 ```
+Obs.: Todos os requisitos foram atendidos!
 
 ## TRABALHO AVII
 Segue abaixo os requisitos solicitados pelo professor:
@@ -31,3 +33,4 @@ CRIAR UMA APLICAÇÃO QUE CONTEMPLE OS SEGUINTES REQUISITOS:
 2) PERSISTIR OS DADOS GERADOS COM A BIBLIOTECA "ROOM";
 3) CONSUMIR UMA "API REST".
 ```
+Obs.: Somente o requisito de número igual a 3 que não foi atendido!
